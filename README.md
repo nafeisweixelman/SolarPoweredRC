@@ -1,6 +1,6 @@
 # SolarPoweredRC
-Solar Powered Induced Charging Race Car
-https://solarpoweredrc.myportfolio.com
+Solar Powered Induced Charging Race Car \
+https://solarpoweredrc.myportfolio.com \
 
 There are the open source files for our microcontroller code.\
 We used the breadboard schematic found at -> https://www.arduino.cc/en/Tutorial/ArduinoToBreadboard \
