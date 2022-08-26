@@ -1,7 +1,8 @@
 # SolarPoweredRC
 Solar Powered Induced Charging Race Car \
-https://solarpoweredrc.myportfolio.com 
+We created a wireless charing platform for a remote controlled car, that was done via solar power
 
-There are the open source files for our microcontroller code.\
-We used the breadboard schematic found at -> https://www.arduino.cc/en/Tutorial/ArduinoToBreadboard \
-so that we could use our microcontroller without the Arduino Uno.
+This was coded using the Arduino IDE using C++
+
+More details can be found at: \
+https://solarpoweredrc.myportfolio.com 
